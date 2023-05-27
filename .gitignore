@@ -8,3 +8,5 @@ train.bat
 logs
 gen.bat
 gen_ref.bat
+trainingImages/
+regImages/
